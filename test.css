@@ -1,0 +1,73 @@
+.fa {
+    font-size: 50px;
+}
+
+.fa-brands {
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.fa-vk {
+    color: blue;
+    background-color: black;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16;
+    line-height: 20px;
+}
+
+h1 {
+    color: #222222;
+    font: size 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987; 
+}
+
+.head2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+
+}
+     
+.my-photo {
+    border-radius: 10px;
+    width: 300px;
+}
+
+.inp {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+
+}
+
+.push {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.main {
+    font-family: sans-serif;
+}
+
+
